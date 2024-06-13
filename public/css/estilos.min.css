@@ -1,0 +1,26 @@
+p{
+    text-align: center;
+    padding-top: 35px;
+}
+
+.Nav{
+    padding: 20px;
+    width: 1000px;
+}
+
+.Nav2{
+    padding-top: 50px;
+}
+
+.cuerpo{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    background-color: rgb(247, 243, 243);
+    width: 90%;
+}
+.btn2{
+    background-color: black;
+
+}
+
